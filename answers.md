@@ -64,5 +64,13 @@ Date:   Tue Jan 21 19:37:29 2020 -0500
 
 Answer 9: Status is good, README.md and answers.md were added and updated in my repository.
 
-Answer 10: 
+Answer 10: No, the changes were not. 
+
+Answer 11: No, I got an error message and changes were not made.
+
+Answer 12: Yes, After git pull command, the changes were made to my local README.md file.
+
+Answer 13: .  ..  .git  .gitignore  README.md
+
+
 
